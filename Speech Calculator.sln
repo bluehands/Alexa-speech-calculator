@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Speech Calculator Alexa", "Speech Calculator Alexa\Speech Calculator Alexa.csproj", "{456DFAC5-0FAD-4919-AB48-DF7BEBDD8707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456DFAC5-0FAD-4919-AB48-DF7BEBDD8707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456DFAC5-0FAD-4919-AB48-DF7BEBDD8707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456DFAC5-0FAD-4919-AB48-DF7BEBDD8707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456DFAC5-0FAD-4919-AB48-DF7BEBDD8707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52448F34-8E26-4C43-8FA9-4534754E0250}
+	EndGlobalSection
+EndGlobal
