@@ -1,4 +1,8 @@
-##Create the skill
+# Assistants - the new app platform
+
+This project give little instructions how to build an Alexa skill and is used in demos and talks. 
+
+# Create the skill
 
 * Goto https://developer.amazon.com/alexa/console/ask and create a new skill.
   * Add an indent *Add*
@@ -11,6 +15,8 @@
   * Use wildcard certificates
 * Save the model
 * Build the model
+
+# Create the backend
 * Create a new asp.net project
   * Reference Alexa.NET from https://github.com/timheuer/alexa-skills-dotnet
   * Add a Controller e.q. "*AlexaController*" 
